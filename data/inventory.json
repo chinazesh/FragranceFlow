@@ -1,0 +1,26 @@
+{
+  "Tom Ford - Lost Cherry": {
+    "brand": "Tom Ford",
+    "name": "Lost Cherry",
+    "volume_ml": 50.0,
+    "purchase_price": 150000.0
+  },
+  "Jean Paul Gaultier - Ultra Male": {
+    "brand": "Jean Paul Gaultier",
+    "name": "Ultra Male",
+    "volume_ml": 125.0,
+    "purchase_price": 80000.0
+  },
+  "Maison Margiela - Replica Lazy Sunday Morning": {
+    "brand": "Maison Margiela",
+    "name": "Replica Lazy Sunday Morning",
+    "volume_ml": 100.0,
+    "purchase_price": 95000.0
+  },
+  "Xerjoff - Erba Pura": {
+    "brand": "Xerjoff",
+    "name": "Erba Pura",
+    "volume_ml": 100.0,
+    "purchase_price": 120000.0
+  }
+}
